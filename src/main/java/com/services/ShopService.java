@@ -31,7 +31,7 @@ public class ShopService {
 		ResultPage<Shop> resultPage = new ResultPage<>();
 		try {
 	GeoJsonPoint userLocation =new GeoJsonPoint(longitude,latitude);
-		Page<Shop> shopPageDisliked= shopRespository.findByLikeStatusAndLikeStatusDateLessThan( ShopLikingStatus.DISLIKED, LocalDateTime.now().minusMinutes(2), PageRequest.of(page, size));
+		Page<Shop> shopPageDisliked= shopRespository.findByLikeStatusAndLikeStatusDateLessThan( ShopLikingStatus.DISLIKED, LocalDateTime.now().minusHours(2), PageRequest.of(page, size));
 	    for (Shop shop : shopPageDisliked) {
 	    	shop.setLikeStatus(ShopLikingStatus.NEUTRAL);
 	    	shopRespository.save(shop);
