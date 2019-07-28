@@ -1,0 +1,174 @@
+{
+	"data": [
+		{
+			"name": "SHOP1",
+			"description": "the first shop description",
+			"likeStatus": "LIKED",
+			"location": {
+				"type": "Point",
+				"x":-6.841650,
+				"y" :34.020882,
+				"coordinates": [
+				    -6.841650,
+					34.020882
+					
+				]
+			}
+		},
+		{
+			"name": "SHOP2",
+			"description": "the first shop description",
+			"likeStatus": "NEUTRAL",
+			"location": {
+				"type": "Point",
+				"x":-9.598107,
+				"y" :30.427755,
+				"coordinates": [
+				    -9.598107,
+					30.427755
+					
+				]
+			}
+		},{
+			"name": "SHOP3",
+			"description": "the first shop description",
+			"likeStatus": "DISLIKED",
+			"location": {
+				"type": "Point",
+				"x":-9.733198,
+				"y" :29.696901,
+				"coordinates": [
+				    -9.733198,
+					29.696901
+					
+				]
+			}
+		},{
+			"name": "SHOP4",
+			"description": "the first shop description",
+			"likeStatus": "NEUTRAL",
+			"location": {
+				"type": "Point",
+				"x":-5.530234,
+				"y" :31.520464,
+				"coordinates": [
+				    -5.530234,
+					31.520464
+					
+				]
+			}
+		},{
+			"name": "SHOP5",
+			"description": "the first shop description",
+			"likeStatus": "NEUTRAL",
+			"location": {
+				"type": "Point",
+				"x":-9.754354,
+				"y" :31.506327,
+				"coordinates": [
+				    -9.754354,
+					31.506327
+					
+				]
+			}
+		},{
+			"name": "SHOP6",
+			"description": "the first shop description",
+			"likeStatus": "NEUTRAL",
+			"location": {
+				"type": "Point",
+				"x":-7.577820,
+				"y" :33.351177,
+				"coordinates": [
+				    -7.577820,
+					33.351177
+					
+				]
+			}
+		},{
+			"name": "SHOP7",
+			"description": "the first shop description",
+			"likeStatus": "NEUTRAL",
+			"location": {
+				"type": "Point",
+				"x":-7.603869,
+				"y" :33.589886,
+				"coordinates": [
+				    -7.603869,
+					33.589886
+					
+				]
+			}
+		},{
+			"name": "SHOP8",
+			"description": "the first shop description",
+			"likeStatus": "NEUTRAL",
+			"location": {
+				"type": "Point",
+				"x":-1.912823,
+				"y" :34.689404,
+				"coordinates": [
+				    -1.912823,
+					34.689404
+					
+				]
+			}
+		},{
+			"name": "SHOP9",
+			"description": "the first shop description",
+			"likeStatus": "NEUTRAL",
+			"location": {
+				"type": "Point",
+				"x":-7.973328,
+				"y" :31.669746,
+				"coordinates": [
+				    -7.973328,
+					31.669746
+					
+				]
+			}
+		},{
+			"name": "SHOP10",
+			"description": "the first shop description",
+			"likeStatus": "NEUTRAL",
+			"location": {
+				"type": "Point",
+				"x":-13.162500,
+				"y" :27.125286,
+				"coordinates": [
+				    -13.162500,
+					27.125286
+					
+				]
+			}
+		},{
+			"name": "SHOP11",
+			"description": "the first shop description",
+			"likeStatus": "NEUTRAL",
+			"location": {
+				"type": "Point",
+				"x":-2.324295,
+				"y" :31.669746,
+				"coordinates": [
+				    -2.324295,
+					31.669746
+					
+				]
+			}
+		},{
+			"name": "SHOP12",
+			"description": "the first shop description",
+			"likeStatus": "NEUTRAL",
+			"location": {
+				"type": "Point",
+				"x":-8.500000,
+				"y" :33.233334,
+				"coordinates": [
+				    -8.500000,
+					33.233334
+					
+				]
+			}
+		}
+	]
+}
